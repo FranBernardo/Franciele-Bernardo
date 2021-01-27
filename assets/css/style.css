@@ -61,6 +61,8 @@ header{
     text-transform: uppercase;
     font-weight: bold;
     color: #FFF;
+    position: fixed;
+    width: 100%;
     padding: 30px 20px;
 }
 
