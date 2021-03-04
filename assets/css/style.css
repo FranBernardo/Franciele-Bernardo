@@ -726,9 +726,6 @@ footer a{
         height: calc(100vh - 1px);
     }
 }
-
-
-
 /*x-small devices responsivity*/
 
 @media (max-width: 374px){
